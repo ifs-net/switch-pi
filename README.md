@@ -1,1 +1,3 @@
 # switch-pi
+
+See https://www.forwardme.de/2020/11/05/switch-pi-relais-lampen-led-am-raspberry-einfach-schalten-und-in-openhab-integrieren/ for details...
